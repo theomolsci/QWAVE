@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Compiled dice_core extension (build it locally, see dice_core/README.md)
+dice_core/build/
+dice_core/*.so
+dice_core/**/*.so
+
+# Run outputs (sample_data_nitrogen/ is NOT ignored -- it ships the paper's
+# actual hardware sample cache, see README.md)
+production_runs_nitrogen/
+*.npz
+
+# Local env
+.env

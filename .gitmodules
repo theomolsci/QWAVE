@@ -1,0 +1,3 @@
+[submodule "dice_core/external/eigen"]
+	path = dice_core/external/eigen
+	url = https://gitlab.com/libeigen/eigen.git

@@ -1,0 +1,10 @@
+numpy
+psutil
+torch
+qiskit
+qiskit-nature
+qiskit-ibm-runtime
+pyscf
+
+# build-time only, for compiling dice_core/ (see dice_core/README.md)
+pybind11
