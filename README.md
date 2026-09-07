@@ -3,7 +3,7 @@
 Reference implementation accompanying:
 
 > S. Halder, C. Patra, and R. Maitra, *"Quantum Wavefunction Augmentation via
-> Variational Encoders"* (Q-WAVE).
+> Variational Autoencoders"* (Q-WAVE).
 
 `main_sqdrift_hardware_v2_pt2.py` is a single, self-contained script that runs
 the full pipeline for the N2 (2.5x bond length, 2.75 A) result from the paper:
